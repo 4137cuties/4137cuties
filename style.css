@@ -1,0 +1,32 @@
+html, body {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+}
+
+header {
+	width: 100%;
+	padding-bottom: 25px;
+	flex-direction: column;
+}
+
+img {
+	width: 70%;
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+button {
+    background-color: #592781;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 4px 2px;
+    border-radius: 20px;
+  }
